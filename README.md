@@ -3,7 +3,7 @@
 Bienvenido a mi repositorio personal. Aquí podrás encontrar mis proyectos, trabajos y colaboraciones en distintas áreas como desarrollo web, ciencia de datos, machine learning y más.
 
 ## Sobre mí
-Soy Andrés Salazar, un apasionado de la tecnología con experiencia en desarrollo de software, ciencia de datos y análisis. Mi enfoque está en crear soluciones innovadoras utilizando las últimas tecnologías. Si deseas contactarme, puedes hacerlo a través de mi correo institucional: [andres.salazar@espol.edu.ec](mailto:aasalazar@espol.edu.ec).
+Soy Andrés Salazar, un apasionado de la tecnología con experiencia en desarrollo de software, ciencia de datos y análisis. Mi enfoque está en crear soluciones innovadoras utilizando las últimas tecnologías. Si deseas contactarme, puedes hacerlo a través de mi correo institucional: [aasalazar@espol.edu.ec](mailto:aasalazar@espol.edu.ec).
 
 ## Proyectos
 
