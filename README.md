@@ -19,13 +19,13 @@ Odoo es una suite de aplicaciones empresariales de código abierto que cubren to
 - **Descripción**: Sistema de recomendación basado en el comportamiento de clientes utilizando técnicas de machine learning y análisis de datos.
 - **Tecnologías utilizadas**: Python, scikit-learn, pandas, PySpark.
 - **Estado**: En desarrollo.
-- **Enlace al proyecto**: [Sistema de Recomendación](https://github.com/andressalazar/PreTaws)
+- **Enlace al proyecto**: [Sistema de Recomendación](https://github.com/AndresSalazar19/PreTaws)
 
 ### 3. **Base de datos para MotorPlan**
 - **Descripción**: Base de datos relacionales para la empresa MotorPlan. 
 - **Tecnologías utilizadas**: Power BI, DAX, SQL.
 - **Estado**: Finalizado.
-- **Enlace al proyecto**: [Base de datos para MotorPlan](https://github.com/andressalazar/MotorplanDB)
+- **Enlace al proyecto**: [Base de datos para MotorPlan](https://github.com/AndresSalazar19/MotorPlanDB)
 
 ## Tecnologías utilizadas
 - **Lenguajes**: Python, SQL, HTML, CSS
