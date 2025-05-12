@@ -11,7 +11,7 @@ Soy Andrés Salazar, un apasionado de la tecnología con experiencia en desarrol
 - **Descripción**: Este sistema está diseñado para gestionar y automatizar el proceso de atención al cliente en restaurantes. Permite a los meseros registrar pedidos, gestionar cuentas y realizar pagos de manera eficiente, todo integrado en una plataforma única.
 - **Tecnologías utilizadas**: Python, Odoo (Framework y módulos personalizados), PostgreSQL.
 - **Estado**: En desarrollo. Actualmente, se están creando módulos personalizados para adaptarse a las necesidades específicas del restaurante.
-- **Enlace al proyecto**: [Sistema de ayuda de mesa utilizando Odoo](https://github.com/andressalazar/sistema-ayuda-mesa-odoo)
+- **Enlace al proyecto**: [Sistema de ayuda de mesa utilizando Odoo](https://gitlab.espol.edu.ec/aasalazar/helpdesk-odoo-espol)
 
 Odoo es una suite de aplicaciones empresariales de código abierto que cubren todas las necesidades de tu empresa: CRM, comercio electrónico, contabilidad, inventario, punto de venta, gestión de proyectos, etc. Puedes obtener más información y acceder a la documentación oficial en su sitio web: [www.odoo.com](https://www.odoo.com)
 
@@ -25,7 +25,7 @@ Odoo es una suite de aplicaciones empresariales de código abierto que cubren to
 - **Descripción**: Base de datos relacionales para la empresa MotorPlan. 
 - **Tecnologías utilizadas**: Power BI, DAX, SQL.
 - **Estado**: Finalizado.
-- **Enlace al proyecto**: [Dashboard Salud Financiera](https://github.com/andressalazar/MotorplanDB)
+- **Enlace al proyecto**: [Base de datos para MotorPlan](https://github.com/andressalazar/MotorplanDB)
 
 ## Tecnologías utilizadas
 - **Lenguajes**: Python, SQL, HTML, CSS
