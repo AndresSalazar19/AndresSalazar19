@@ -19,20 +19,21 @@ Odoo es una suite de aplicaciones empresariales de código abierto que cubren to
 - **Descripción**: Sistema de recomendación basado en el comportamiento de clientes utilizando técnicas de machine learning y análisis de datos.
 - **Tecnologías utilizadas**: Python, scikit-learn, pandas, PySpark.
 - **Estado**: En desarrollo.
-- **Enlace al proyecto**: [Sistema de Recomendación](https://github.com/andressalazar/RecomendacionTienda)
+- **Enlace al proyecto**: [Sistema de Recomendación](https://github.com/andressalazar/PreTaws)
+
+### 3. **Base de datos para MotorPlan**
+- **Descripción**: Base de datos relacionales para la empresa MotorPlan. 
+- **Tecnologías utilizadas**: Power BI, DAX, SQL.
+- **Estado**: Finalizado.
+- **Enlace al proyecto**: [Dashboard Salud Financiera](https://github.com/andressalazar/MotorplanDB)
 
 ## Tecnologías utilizadas
 - **Lenguajes**: Python, SQL, HTML, CSS
-- **Frameworks**: Flask, PySpark, scikit-learn, Pygame
+- **Frameworks**: Flask, PySpark, scikit-learn, Pygame, Angular, React
 - **Bases de datos**: MySQL, PostgreSQL, SQLite
 - **Herramientas**: Power BI, Docker, Databricks
 
-## Capturas de Pantallas
-### Proyecto: Sistema de ayuda de mesa utilizando Odoo
-![Sistema de ayuda de mesa](ruta/a/imagen/tictactoe.png)
 
-### Proyecto: Sistema de Recomendación para Productos de Tienda
-![Dashboard Salud Financiera](ruta/a/imagen/dashboard.png)
 
 ## Cómo contribuir
 Si deseas contribuir a mis proyectos, por favor revisa las directrices de contribución en cada uno de los enlaces a los proyectos. Si tienes alguna sugerencia o mejora, ¡no dudes en abrir un *issue* o un *pull request*!
